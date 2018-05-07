@@ -1,0 +1,13 @@
+.text-center {
+    text-align: center;
+}
+
+.text-grey {
+    color: grey;
+}
+
+.footer {
+    bottom: 10px;
+    right: 10px;
+    position: absolute;
+}
